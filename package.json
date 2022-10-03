@@ -1,0 +1,14 @@
+{
+  "name": "my_modaal",
+  "version": "1.0.0",
+  "description": "my-modaal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lakhan",
+  "license": "ISC",
+  "dependencies": {
+    "modaal": "^0.4.4"
+  }
+}
